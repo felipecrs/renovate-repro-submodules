@@ -6,5 +6,4 @@
   "enabledManagers": [
     "git-submodules"
   ]
-  // "ignoreDeps": ["bats"]
 }
